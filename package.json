@@ -44,7 +44,7 @@
   ],
   "license": "MIT",
   "main": "./dist/index.js",
-  "mcpName": "io.github.pooriaarab/agentic-image",
+  "mcpName": "io.github.itsryanarmani/agentic-image",
   "name": "agentic-image",
   "publishConfig": {
     "access": "public"
