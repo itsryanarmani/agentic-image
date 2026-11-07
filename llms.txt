@@ -10,6 +10,6 @@ Keywords: image-generation, flux, agentic-suite, claude-code, codex, cli, mcp.
 
 ## Docs
 
-- README: https://github.com/pooriaarab/agentic-image
-- Core contract: https://github.com/pooriaarab/agentic-image/blob/main/docs/agentic-core.md
+- README: https://github.com/itsryanarmani/agentic-image
+- Core contract: https://github.com/itsryanarmani/agentic-image/blob/main/docs/agentic-core.md
 - License: MIT
